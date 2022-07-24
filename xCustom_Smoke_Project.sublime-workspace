@@ -1,0 +1,338 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"set_enti",
+				"set_entity_visibility\t engine_stocks.inc - stock "
+			],
+			[
+				"SPRITE",
+				"SPRITE_DEPTH_FIRST\t Huehue_Custom_Smoke.sma - enum "
+			],
+			[
+				"SPRI",
+				"SPRITE_DEPTH_SECOND\t Huehue_Custom_Smoke.sma - enum "
+			],
+			[
+				"FCVAR_N",
+				"FCVAR_NONE\t cvars.inc - define: 0 "
+			],
+			[
+				"SPRITE_",
+				"SPRITE_DEPTH_2\t Custom_Smoke.sma - define: 550 "
+			],
+			[
+				"g_fl",
+				"g_flSpeedInside\t Huehue_Custom_Smoke.sma - var "
+			],
+			[
+				"g_pCv",
+				"g_pCvarSpeedInSmoke"
+			],
+			[
+				"get_pcvar",
+				"get_pcvar_float\t cvars.inc - native "
+			],
+			[
+				"randm",
+				"random_num\t amxmodx.inc - native "
+			],
+			[
+				"blue",
+				"BLUE"
+			],
+			[
+				"g_sz",
+				"g_szCvarSpriteType\t Huehue_Custom_Smoke.sma - var "
+			],
+			[
+				"WARN_",
+				"WARN_NO_STEAM\t no_developer_fps_override.sma - enum "
+			],
+			[
+				"WAR",
+				"WARN_STEAM\t no_developer_fps_override.sma - enum "
+			],
+			[
+				"MAX_PLA",
+				"MAX_PLAYER_WARNS\t no_developer_fps_override.sma - enum "
+			],
+			[
+				"WARN",
+				"WARN_NO_STEAM\t no_developer_fps_override.sma - enum "
+			],
+			[
+				"FMRES_",
+				"FMRES_IGNORED\t fakemeta_const.inc - define: 1 "
+			],
+			[
+				"FMRES",
+				"FMRES_IGNORED\t fakemeta_const.inc - define: 1 "
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "xCustom_Smoke.sma",
+			"settings":
+			{
+				"buffer_size": 12296,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/User/AMXX-Compiler.sublime-build",
+					""
+				],
+				[
+					"Packages/User/backuo/AMXX-Compiler.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/AMXX-Compiler.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Asus/Documents/GitHub/xCustom_Nades",
+		"/C/Users/Asus/Documents/GitHub/xCustom_Nades/sprites"
+	],
+	"file_history":
+	[
+		"/C/Users/Asus/AppData/Local/Temp/7zO8EEC5D74/xCustom_Smoke.sma",
+		"/C/Users/Asus/Documents/GitHub/xCustom_Nades/xCustom_Smoke.sma",
+		"/D/Games/Zombie Soruce/GG.COM - Plugins for sale [ Normal ]/Custom Smoke/xCustom_Smoke.sma",
+		"/D/Games/Zombie Soruce/GG.COM - BaseBuilder [Tirant New]/BB Extra Plugins [Nades]/BB Molotov Grenade/addons/amxmodx/scripting/amxx_grenade_molotov.sma",
+		"/D/Games/Zombie Soruce/GG.COM - Plugins for sale [ Normal ]/Custom Smoke/Custom_Smoke.sma",
+		"/D/Games/CS 1.6 SERVER/cstrike/addons/amxmodx/scripting/include/engine_stocks.inc",
+		"/D/Games/CS 1.6 SERVER/cstrike/addons/amxmodx/scripting/include/reapi.inc",
+		"/D/Games/CS 1.6 SERVER/cstrike/addons/amxmodx/scripting/include/reapi_engine.inc",
+		"/D/Games/Zombie Soruce/Plugins Work in Progress/csgo_money_rewards.sma",
+		"/D/Games/Zombie Soruce/GG.COM - Plugins for sale [ Normal ]/Custom Smoke/Huehue_Custom_Smoke.sma",
+		"/C/Users/Asus/Documents/GitHub/CatchMod/Additional Plugins/no_developer_fps_override.sma",
+		"/C/Users/Asus/AppData/Local/Temp/7zO896FCB63/custom_smoke.sma",
+		"/C/Users/Asus/Documents/GitHub/ReZombie_Regeneration/scripting/zp_zombie_regenaration.sma",
+		"/D/Games/Zombie Soruce/GG.COM - Plugins for sale [ Normal ]/no_developer_fps_override.sma",
+		"/D/Games/CS 1.6 SERVER/cstrike/addons/amxmodx/scripting/include/amxmodx.inc",
+		"/C/Users/Asus/Documents/GitHub/CatchMod/catchmod_admin.sma",
+		"/C/Users/Asus/Documents/GitHub/CatchMod/amx_show.sma",
+		"/D/Games/Zombie Soruce/Catch Mod [mi0]/crx_chatmanager_toggle.sma",
+		"/D/Games/Zombie Soruce/Catch Mod [mi0]/crx_chatmanager_custom_prefixes.sma",
+		"/D/Games/Zombie Soruce/Catch Mod [mi0]/crx_chatmanager.sma",
+		"/D/Games/Zombie Soruce/GG.COM - Dust2 World & Respawn/X Public Core 0.1 Beta by xUnicorn (t3rkecorejz)/addons/amxmodx/scripting/pub_core_edited.sma",
+		"/D/Games/Zombie Soruce/GG.COM - DeathRun Fixed/cstrike/addons/amxmodx/scripting/deathrun_lives_system_b.sma",
+		"/D/Games/Zombie Soruce/GG.COM - JailBreak Mod/source/boxes.sma",
+		"/D/Games/Zombie Soruce/GG.COM - BaseBuilder [Tirant New]/BB Shoko & Huehue/BaseBuilder Main [Working Plugins]/bb_team_system.sma",
+		"/D/Games/Zombie Soruce/GG.COM - Plugins for sale [ Normal ]/Goldanite - SmirnoffBG/Goldanite.sma",
+		"/D/Games/Zombie Soruce/GG.COM - Plugins for sale [ Normal ]/HNS PlayedTime/hns_playedtime.sma",
+		"/D/Games/Zombie Soruce/GG.COM - Plugins for sale [ Normal ]/JB UpVote Map/jb_upvote.sma",
+		"/D/Games/Zombie Soruce/GG.COM - BaseBuilder [Tirant New]/BB Shoko & Huehue/basebuilder65_funblocks.sma",
+		"/D/Games/Zombie Soruce/GG.COM - BaseBuilder [Tirant New]/BB Shoko & Huehue/bb_round_end_event.sma",
+		"/D/Games/Zombie Soruce/GG.COM - BaseBuilder [Tirant New]/BB Shoko & Huehue/bonehunter_ak47.sma",
+		"/D/Games/Zombie Soruce/GG.COM - BaseBuilder [Tirant New]/BB Shoko & Huehue/bb_knife_abilities.sma",
+		"/D/Games/Zombie Soruce/GG.COM - BaseBuilder [Tirant New]/BB Shoko & Huehue/BB Shop/scripting/bb_shop_new.sma",
+		"/D/Games/Zombie Soruce/GG.COM - BaseBuilder [Tirant New]/BB Shoko & Huehue/bb_antidote_wip.sma",
+		"/C/Users/Asus/Documents/GitHub/ReVampire_HP/scripting/ReVampire_HP.sma",
+		"/D/Games/Zombie Soruce/Plugins Work in Progress/CountryOnDead.sma"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "xCustom_Smoke.sma",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12296,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4823,
+								4836
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/amxmodx/AMXX-Pawn.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1080.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 232.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "xCustom_Smoke_Project.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

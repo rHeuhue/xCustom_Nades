@@ -74,7 +74,7 @@ public plugin_init()
 
 	new pCvar
 
-	pCvar = create_cvar("csn_sprite_color", "Default", FCVAR_NONE, "Color type^nColors:^nDefault = Normal smoke | Random = Random color every smoke^nCustom Colors:^nRed | Green | Blue | Yellow | Orange | Magenta | White | Gray | Black")
+	pCvar = create_cvar("csn_sprite_color", "Random", FCVAR_NONE, "Color type^nColors:^nDefault = Normal smoke | Random = Random color every smoke^nCustom Colors:^nRed | Green | Blue | Yellow | Orange | Magenta | White | Gray | Black")
 	bind_pcvar_string(pCvar, g_eCvars[COLOR_SMOKE], charsmax(g_eCvars[COLOR_SMOKE]))
 	pCvar = create_cvar("csn_sprite_radius", "150.0", FCVAR_NONE, "At what radius team chosen will be slowed inside the smoke")
 	bind_pcvar_float(pCvar, g_eCvars[RADIUS])
